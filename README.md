@@ -3,9 +3,11 @@
 
 [欢迎使用 Markdown在线编辑器 MdEditor](https://www.mdeditor.com/)
 
+[提供英文键位练习、拼音打字练习、五笔打字练习，具有实时动画效果的图解拆字等功能！](https://dazi.kukuw.com/keyboard.html)
 
 [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.](https://leetcode.com/)
 
+[拼题A - PTA | 程序设计类实验辅助教学平台](https://pintia.cn/)
 
 [Stack Overflow是一个程序设计领域的问答网站，隶属Stack Exchange Network。网站允许注册用户提出或回答问题，还可对已有问题或答案加分、扣分或进行修改，条件是用户达到一定的“声望值”。](https://stackoverflow.com/)
 
