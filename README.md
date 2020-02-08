@@ -9,7 +9,7 @@
 
 [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.](https://leetcode.com/)
 
-[拼题A - PTA | 程序设计类实验辅助教学平台](https://pintia.cn/)
+[拼题A - PTA 程序设计类实验辅助教学平台](https://pintia.cn/)
 
 [Stack Overflow是一个程序设计领域的问答网站，隶属Stack Exchange Network。网站允许注册用户提出或回答问题，还可对已有问题或答案加分、扣分或进行修改，条件是用户达到一定的“声望值”。](https://stackoverflow.com/)
 
