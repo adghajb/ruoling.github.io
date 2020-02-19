@@ -8,17 +8,12 @@
     <title>web前端开发</title>
 </head>
 <body>
-    <a href="http://www.w3c.org">w3c组织</a><br />
-    <a href="http://www.w3cschool.com.cn">w3cshool学习网站</a><br />
-    <a href="#">前端与后端</a>
-    <h1>WEb前端开发</h1>
-    <h2>HTML</h2>
-    <p>超文本标记语言，用于构建网页结构</p>
-    <hr />
-    <h2>CSS</h2>
-    <hr />
-    <h2>JS</h2>
-    <p>javascript,脚本语言，用于构建网页行为</p>
+    <h1>WEB  前端开发</h1>
+    <ol>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+    </ol>
     <h5>web front-end development</h5>
     <hr />
     <h2>基本概念</h2>
@@ -28,6 +23,12 @@
     <p>CSS</p>
     <p>JS</p>
     <h6>copyright</h6>
+<table border="2">
+    <tr>    <th>    </th>    <th>学生数</th>    <th>平均成绩</th>    </tr>
+    <tr>    <th>一班</th>    <td>30</td>        <td>89</td>          </tr>
+    <tr>    <th>二班</th>    <td>35</td>        <td>85</td>          </tr>
+    <tr>    <th>三班</th>    <td>32</td>        <td>80</td>          </tr>
+</table>
 </body>
 </html>
 
