@@ -7,6 +7,13 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <style>
+        p{
+         font-size:12px;    /*字号*/
+         color:blue;        /*文字颜色*/
+         font-weight:bold;   /*加粗*/
+        }
+    </style>  
 </head>
 <body>
     <!-- 斜体   <em>斜体，强调</em>   <i>斜体，无语义</i>-->
@@ -16,14 +23,7 @@
         <dd>超文本标记语言</dd>                  <!--<dd>描述</dd>-->
         <dt>CSS</dt>
         <dd>层叠样式表</dd>
-    </dl>
-    <style>
-        p{
-         font-size:12px;    /*字号*/
-         color:blue;        /*文字颜色*/
-         font-weight:bold;   /*加粗*/
-        }
-    </style>       
+    </dl>     
     <p>CSS</p>
     <h1>WEB  前端开发</h1>
     <ol>
