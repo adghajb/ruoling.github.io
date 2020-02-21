@@ -51,3 +51,55 @@
 
 
 ```
+css html
+
+```html
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <!--<link rel="stylesheet" href="css/style.css">文件式格式
+                               href后是文件                                -->
+    <style type="text/css">
+        /*p   {  font-size:12px; }*/
+        /*.one{ font-size:18px;  } */
+        /*.two{font-size:24px;   } */
+        /*#one{ font-size:30px;  }*/
+        /*#two{font-size:40px;   }*/
+        /*p span{ "color:red;"*/
+        /*}*/
+        /*h1,p{ text-align:center;*/
+        /*}*/
+        * {
+            text-align:center;
+        }
+    </style>
+</head>
+<body>
+    <!--<p style="color:blue;font-size:6px;">天使投资</p>-->
+    <!--<p>天使投资</p>-->
+    <!--<p class="one">天使投资</p>-->
+    <!--<p class="two">天使投资</p>-->
+    <!--<p id="one">天使投资</p>-->
+    <!--<p id="two">天使投资</p>-->
+    <!--<p><span>天使</span>投资</p>-->
+    <!--<h1>欢迎访问论坛</h1>-->
+    <!--<p>欢迎访问论坛</p>-->
+    <h1>欢迎访问论坛</h1>
+    <p>欢迎访问论坛</p>
+    <h2>欢迎访问论坛</h2>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+```
