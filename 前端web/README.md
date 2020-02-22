@@ -94,10 +94,53 @@ css html
 </html>
 
 
+```
 
+文本
 
+```html
 
-
+<!DOCTYPE html>
+<html>
+<title></title>
+<head>
+<style type="text/css">
+/*h1 {letter-spacing:2px;}*/
+/*h2 {letter-spacing:-3px;}*/
+/*p {font-size:14px;*/
+/*   line-height:10em;*/
+/*}*/
+/*p {*/
+/*    height:40px;*/
+/*    background-color:#ccc;*/
+/*    font-size:14px;*/
+    /*line-height:40px;*/
+/*}*/
+/*h1 {text-align:center }*/
+/*.date {text-align:right }*/
+/*.main {text-align:justify }*/
+h1 {text-decoration:overline;}
+h2 {text-decoration:line-through;}
+h3 {text-decoration:underline;}
+</style>
+</head>
+<body>
+    <!--<h1>标题内容</h1>-->
+    <!--<h2>文本段落主要内容</h2>-->
+    <!--<p>-->
+    <!--    这里是web前端开发这里是web前端开发这里是web前端开发这里是web前端开发-->
+    <!--</p>-->
+    <!--<p>-->
+    <!--    web前端开发-->
+    <!--</p>-->
+    <!--<h1>CSS</h1>-->
+    <!--<p class="date">3月4号</p>-->
+    <!--<p class="main">当我年轻的时候，。。。</p>-->
+    <h1>998</h1>
+    <h2>998</h2>
+    <h3>998</h3>
+</body>
+</html>
 
 
 
