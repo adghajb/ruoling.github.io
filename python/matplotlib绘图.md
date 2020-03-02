@@ -1,7 +1,7 @@
 [Bar Chart Race in Python with Matplotlib](https://towardsdatascience.com/bar-chart-race-in-python-with-matplotlib-8e687a5c8a41)
 
 
-散点图
+散点图1
 
 ```py
 
@@ -33,6 +33,22 @@ plt.axis([-1,10,0,6])#y轴起始，x轴起始
 plt.show()
 
 ```
+
+散点图2
+
+```py
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+fig, ax = plt.subplots()
+ax.plot(10*np.random.randn(100), 10*np.random.randn(100), 'o')
+ax.set_title('Simple Scatter')#标题
+
+plt.show()
+
+```
+
 
 
 直方图
