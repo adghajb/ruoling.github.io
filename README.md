@@ -12,7 +12,7 @@
 [拼题A - PTA 程序设计类实验辅助教学平台](https://pintia.cn/)
 
 
-[ PKU Online Judge / 练习 ](http://poj.openjudge.cn)
+[ PKU Online Judge ](http://cxsjsxmooc.openjudge.cn/)
 
 [Stack Overflow是一个程序设计领域的问答网站，隶属Stack Exchange Network。网站允许注册用户提出或回答问题，还可对已有问题或答案加分、扣分或进行修改，条件是用户达到一定的“声望值”。](https://stackoverflow.com/)
 
